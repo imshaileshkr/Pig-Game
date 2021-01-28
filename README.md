@@ -1,5 +1,5 @@
 
-                                    <!-- PIG GAME -->
+                                                                 <!-- PIG GAME -->
 
 GAME RULE :
 
