@@ -13,3 +13,10 @@ GAME RULE :
       next player's turn
 
     - The first player to reach 100 Points on GLOBAL score WINS the Game 
+    
+![Screenshot (149)](https://user-images.githubusercontent.com/41740009/106102721-d0f15480-6165-11eb-924d-02f2b6e7d4da.png)
+
+
+
+
+![Screenshot (150)](https://user-images.githubusercontent.com/41740009/106102726-d3ec4500-6165-11eb-983c-e35e45af1de7.png)
